@@ -1,4 +1,4 @@
-import java.util.Random;
+import java.util.Random;//KOKOKOKOK
 public class Game {
 	static void clash(Ogre ogre, Knight knight) {
 		knight.attack(ogre);
