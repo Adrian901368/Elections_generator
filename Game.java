@@ -1,4 +1,4 @@
-import java.util.Random; //zmena nejajak
+import java.util.Random; //zmena nejajakk
 public class Game {
 	static void clash(Ogre ogre, Knight knight) {
 		knight.attack(ogre);
